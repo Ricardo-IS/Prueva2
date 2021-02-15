@@ -1,0 +1,18 @@
+body{
+	background-color: #E6E6FA;
+	font-size: 30px
+	font-family: courier, serif;
+}
+h1{
+	text-align: center;
+	
+}
+h2{
+	text-align: left;
+	font-family: courier; color: orange;
+	
+p{
+	text-align: left;
+	font-size: 16px;
+	text-decoration: none;
+}
